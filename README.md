@@ -8,13 +8,13 @@
   </h1>
 </div>
 
-My name is Chloe, and I'm an 18-year-old developer from Canada. I'm interested in game development, as well as low level development and cybersecurity. I'm most comfortable in Java, C, and C++, and I'm working on learning Rust.
+My name is Chlor, and I'm an 18-year-old developer from Canada. I'm interested in game development, as well as low level development and cybersecurity. I'm most comfortable in Java, C, and C++, and I'm working on learning Rust.
 
 Some notable projects of mine:
 - **[Aulavik](https://github.com/niqumu/Aulavik)**, a tiny POSIX-like kernel written in C
 - **[nadeshiko](https://nadeshiko.io)**, a modern Hypixel stats viewer
-- A **Hypixel SkyBlock clone** with damage calculation, skills, stats, and more.
-- (WIP) **Citadel**, a 1.20 Minecraft RPG loosely based on Runescape with combat mechanics from Honkai: Star Rail 
+- A **Hypixel SkyBlock clone** with damage calculation, skills, stats, and more
+- (WIP) **Citadel**, a 1.21 Minecraft RPG loosely based on Runescape with combat mechanics from Honkai: Star Rail 
 
 I've been programming since I was in elementary school, having began to take it more seriously over COVID-19, where I picked up my interests in both game development and kernel development. I'm also interested in graphic design and the artistic side of development, having taken three years of formal education in the field.
 
