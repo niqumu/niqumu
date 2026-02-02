@@ -8,7 +8,7 @@
   </h1>
 </div>
 
-My name is Chloe, and I'm a 19-year-old developer from Canada. I'm interested in game development, as well as low level development and cybersecurity. I'm most comfortable in Java, C, and C++, and I'm working on learning Rust.
+My name is Chloe, and I'm a 20-year-old developer from Canada. I'm interested in game development, as well as low level development and cybersecurity. I'm most comfortable in Java, C, and C++, and I'm working on learning Rust.
 
 Some notable projects of mine:
 - **[Irminsul](https://github.com/niqumu/Irminsul)**, a flexible piece of custom server software for a closed-sourced game with an undocumented protocol
